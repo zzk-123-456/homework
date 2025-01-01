@@ -53,6 +53,6 @@ def train_with_nn():
 
 
 if __name__ == '__main__':
-    # train_with_sk()
-    # train_with_nn()
+    train_with_sk()
+    train_with_nn()
     utils.cal_kl()

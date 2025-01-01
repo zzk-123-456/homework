@@ -1,4 +1,5 @@
 # homework
+<span style="font-size:30px; font-weight: bold;">运行环境</span>
 运行环境：python == 3.8  
 
 主要包版本：  
@@ -8,6 +9,8 @@ scipy==1.6.2
 seaborn==0.9.0  
 torch==2.4.1  
 scikit-learn==1.3.2  
+
+<span style="font-size:30px; font-weight: bold;">项目介绍</span>
 
 近年来随着智能手机的性能更加完善且多样化，手机的定价问题也受到了越来越多的关注。目前市场上所售卖的手机，其长宽厚度等外观属性、前后置照相机像素多少、是否支持3、4、5G等网络状况以及内存处理器性能等都有着不同的组合款式，也对应着不同的价格档次。  
 
